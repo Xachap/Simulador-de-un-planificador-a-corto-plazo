@@ -1,0 +1,2 @@
+# Simulador-de-un-planificador-a-corto-plazo
+Simulador (en  lenguaje  C), que recibe como parámetro un fichero de entrada con la información pertinente (Procesos, Quantum, etc...) y actúa como un planificador a corto plazo, el cuál con los datos proporcionados ejecuta el algoritmo de planificación expulsivo Round-Robin y el algoritmo de planificación no expulsivo SJF. En cada uno de los casos informa sobre los parámetros de evaluación del procesador, desde el punto de vista del usuario, y del procesador.
